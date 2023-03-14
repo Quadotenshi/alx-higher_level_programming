@@ -6,5 +6,4 @@ def add(a, b):
     b = 2
     print("a = {}".format(a))
     print("b = {}".format(b))
-    print("{} + {} = {}".format(a, b, a + b))
     return a + b
