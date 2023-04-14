@@ -8,3 +8,5 @@ added line
 4-only_diff_elements.py
 5-number_keys.py
 7-update_dictionary.py
+8-simple_delete.py
+9-multiply_by_2.py
