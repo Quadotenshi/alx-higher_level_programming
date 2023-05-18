@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+"""Define a class suare"""
 class Square(self):
-    def __init__(self):
-        pass
+
+    """This is a square class"""
+    pass
